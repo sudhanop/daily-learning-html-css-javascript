@@ -1,0 +1,73 @@
+.background {
+  position: relative;
+  background-size: cover;
+  height: 1000px;
+  width: 1300px;
+
+  z-index: 1;
+}
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1300px;
+  height: 1000px;
+}
+
+.m1,
+.m2,
+.m3,
+.m4,
+.m5,
+.m6,
+.m7,
+.m8,
+.m9 {
+  width: 400px;
+  height: 300px;
+}
+.m1 {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.m2 {
+  position: absolute;
+  top: 20px;
+  left: 440px;
+}
+.m3 {
+  position: absolute;
+  top: 20px;
+  left: 860px;
+}
+.m4 {
+  position: absolute;
+  top: 340px;
+  left: 20px;
+}
+.m5 {
+  position: absolute;
+  top: 340px;
+  left: 440px;
+}
+.m6 {
+  position: absolute;
+  top: 340px;
+  left: 860px;
+}
+.m7 {
+  position: absolute;
+  top: 660px;
+  left: 20px;
+}
+.m8 {
+  position: absolute;
+  top: 660px;
+  left: 440px;
+}
+.m9 {
+  position: absolute;
+  top: 660px;
+  left: 860px;
+}
